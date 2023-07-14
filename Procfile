@@ -1,1 +1,1 @@
-web:gunicorn ShootersWebsite.Server:app
+web:gunicorn Server:app
